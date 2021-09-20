@@ -28,3 +28,4 @@ To redeem an Azure Pass, you will need a Microsoft Account. I recommend using a 
 6) Go to Subscriptions to verify whether your Azure Pass was redeemed successfully. If you see a subscription, you're good to start your lab! Have fun!
 ![Azure Pass10](../img/azurePass10.png)
 
+To start the lab go to [Day Zero AzureAD and Azure setup](dayZero.md)

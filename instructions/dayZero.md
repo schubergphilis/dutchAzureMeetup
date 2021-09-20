@@ -91,4 +91,4 @@ Try giving yourself "User Access Administrator" permissions in Azure AD and chec
 - Make sure that your emergency accounts have permanent Owner permissions on the Management Group.
 - Remember to remove your User Access Administrator permissions!
 
-With that process complete, you have a solid baseline for your Azure AD directory configuration. 
+With that process complete, you have a solid baseline for your Azure AD directory configuration. We can now add some [Azure AD monitoring](monitoring.md).
