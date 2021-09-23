@@ -39,6 +39,7 @@ Now that we have our accounts set up, we're well on our way to get our Directory
    - Remember to assign the license to your user (make sure to set the 'Usage Location' attribute for each user you want to assign the license).
 
 8) Create a new Conditional Access policy. Check the Security tab under Azure Active Directory.
+**Tip** You'll first need to disable Azure Security defaults, it might be worth starting with that. Check the Properties tab of Azure AD in the Azure portal to do that.
    - Enforce MFA for All users, but be sure to exclude your emergency accounts
    - Restrict Access to Trusted Locations
    - Add the public IP addresses of the the SBP office and your home as trusted locations.
