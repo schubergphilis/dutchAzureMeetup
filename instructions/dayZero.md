@@ -12,8 +12,6 @@ If you've followed the prerequisites, you now have a fresh Azure AD tenant with 
 
 2) Find Azure Active Directory in the Portal Menu and take a look around. Explore users, groups, applications... Take your time.
 
-    You will probably notice that the user account which was created by default looks somewhat strange. It is an external account, even though it is marked as a Member account rather than a Guest. Your brand new Microsoft account was used to give you access to the Azure AD tenant. Accounts native to AAD are also called work or school accounts and do not have the #EXT# part in their UPN.
-
 3) Create a new, local, named account for yourself in this new Azure AD tenant. Make that user has Global Administrator permissions in the directory.
 
 4) Open a new private windows and go to <https://portal.azure.com>.
